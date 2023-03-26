@@ -1,0 +1,12 @@
+h1 { font-size:170%; text-align: center;}
+body { font-size:105%; font:bold; font-family :Georgia, 'Times New Roman', Times, serif; margin:25px; margin-bottom: 100px;}
+
+.nodec { text-decoration: none;}
+.anotherpage { text-decoration: none; color:blue }
+.presentpage { text-decoration:overline underline red; color:blue;  }
+
+.loginbutton { border: 3px solid; background-color: rgb(175, 251, 108); width:70%; height: 30px;}
+
+.signupbutton { padding: 3%; border: 3px solid; background-color:rgb(175, 251, 108);}
+.resetbutton { padding: 3%; border: 3px solid; background-color:Red; }
+

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <title>Chan's E-commerce signup</title>
+        <link rel = "stylesheet" type = "text/css" href = "main.css">
+    </head>
+
+    <body>
+        <h1>Welcome to Chan's shop</h1>
+        <p>
+            <a class = "anotherpage" href = "login.html">로그인으로</a> &nbsp;&nbsp;
+            <a class = "presentpage" href = "signup.html">회원가입</a>
+        </p><br>
+        
+        <p>개인정보 (필수)</p>
+        <form method = "get" action = "https://example.com">
+            <p><label>이름 :
+                <input name = "name" type = "text" size = "30" autofocus required>
+             </label></p>
+
+             <p><label>생일 :
+                <input name = "birth" type = "date" required>
+             </label></p>
+            
+            <p><label>전화번호 :
+                <input name = "tel" type = "tel" placeholder = "###-####-####" requred>
+            </label></p>
+
+            <p><label>아이디 :
+                <input name = "id" type = "text"  placeholder = "아이디를 입력하세요" autocomplete required>
+            </label></p>
+            
+            <p><label>비밀번호 : 
+                <input name = "password" type = "password" placeholder = "비밀번호를 입력하세요" required>
+            </label></p>
+            
+            <p><label>비밀번호 확인 : 
+                <input name = "password check" type = "password" placeholder = "비밀번호 확인" required>
+            </label></p><br>
+            
+
+            
+            <p>개인정보 (선택)</p>
+            <p><label>학년 :
+                <input name = "grade" type = "number" min = "1" max = "6" step = "1" value = "2">
+            </label></p>
+            <p>
+                <strong>Things you interested</strong><br>
+                <label>Cloths
+                    <input name = "things interested" type = "checkbox" value = "cloths">
+                </label>
+                
+                <label>Food
+                    <input name = "things interested" type = "checkbox" value = "food">
+                </label>
+
+                <label>Travel
+                    <input name = "things interested" type = "checkbox" value = "travel">
+                </label>
+
+                <label>Study
+                     <input name = "things interested" type = "checkbox" value = "study">
+                    </label>
+                
+                <label>Pet
+                    <input name = "things interested" type = "checkbox" value = "pet">
+                </label>
+            </p>
+
+            <p>
+                <strong>How did you get to my website?</strong><br>
+                <label>Check homework
+                    <input name = "howto" type = "radio" value = "check">
+                </label>
+                   
+                <label>Links from chan
+                    <input name = "howto" type = "radio" value = "link">
+                </label>
+                
+                <label>other
+                    <input name = "howto" type = "radio" value = "other">
+                </label>
+            </p>
+
+            <p>
+                <input class = "signupbutton" type = "submit" value = "회원가입">
+                <input class = "resetbutton" type = "reset" value = "초기화">
+            </p>
+
+
+        </form> 
+
+
+    </body>
+
+
+</html>
