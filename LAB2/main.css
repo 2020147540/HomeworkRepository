@@ -7,6 +7,6 @@ body { font-size:105%; font:bold; font-family :Georgia, 'Times New Roman', Times
 
 .loginbutton { border: 3px solid; background-color: rgb(175, 251, 108); width:70%; height: 30px;}
 
-.signupbutton { padding: 3%; border: 3px solid; background-color:rgb(175, 251, 108);}
-.resetbutton { padding: 3%; border: 3px solid; background-color:Red; }
+.signupbutton { padding: 3px 20px; border: 3px solid; background-color:rgb(175, 251, 108);}
+.resetbutton { padding: 3px 20px; border: 3px solid; background-color:Red; }
 
