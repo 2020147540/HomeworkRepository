@@ -1,0 +1,101 @@
+h1 { font-size:170%;}
+body { max-width:1020px;} 
+
+.nodec { text-decoration: none;}
+.anotherpage { text-decoration: none; color:blue }
+.presentpage { text-decoration:overline underline red; color:blue;  }
+.loginbutton { border: 3px solid; background-color: rgb(175, 251, 108); width:70%; height: 30px;}
+.signupbutton { padding: 3px 20px; border: 3px solid; background-color:rgb(175, 251, 108);}
+.resetbutton { padding: 3px 20px; border: 3px solid; background-color:Red; }
+
+.sliding 
+{
+    position: relative;
+    animation-name: slidingtext;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+}
+@keyframes slidingtext
+{
+    0% {left:70%;}
+    50% {left:10%;}
+    100% {left:0%;}
+}
+
+.navcontainer
+{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content: left;
+}
+.navitem
+{
+    width: 100px;
+    height: 30px;
+    padding: 3px;
+}
+
+.bigcontainer
+{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+}
+.container
+{
+    height:200px;
+    margin:10px;
+    padding:10px;
+    border:1px solid black;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+}
+
+img {margin:5px; z-index: 2; position:relative;}
+
+.bigger {transition: 2s linear;}
+.bigger:hover {z-index: 3; transform: scale(1.5);}
+
+.overlay {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    justify-content: center;
+    align-items: right;
+    opacity: 0;
+}
+img.blur {transition:0.5s;}
+img.blur:hover {z-index:0; transform:sclae(1.5); opacity:0.3;}
+img.blur:hover + p {opacity:1; z-index:5; }
+
+section
+{
+    text-align: justify;
+    padding: 10px;
+    column-count: 3;
+    column-gap:20px;
+    column-rule: 1px solid black;
+    column-width:100px;
+    
+}
+
+
+@media screen and (min-width:801px) {
+    .container {width:18%;}
+}
+@media screen and (min-width:481px) and (max-width:800px) {
+    .container {width:40%;}
+    .navcontainer {flex-direction:column;}
+    .navcontainer .navitem {width:90%; text-align: center;}
+    h2 {text-align: center;}
+    section {column-count:2;}
+}
+@media screen and (max-width:480px) {
+    .container {width:90%;}
+    .navcontainer {flex-direction:column; }
+    .navcontainer .navitem {width:90%; text-align: center;}
+    h2 {text-align: center;}
+    section {column-count:1;}
+}
