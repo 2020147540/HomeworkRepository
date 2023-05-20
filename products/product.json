@@ -1,0 +1,142 @@
+[
+    {
+        "category": "한식",
+        "name": "김밥",
+        "price": 500,
+        "image": "gimbap.PNG"
+    },
+    {
+        "category": "한식",
+        "name": "치즈김밥",
+        "price": 700,
+        "image": "gimbap_cheese.PNG"
+    },
+    {
+        "category": "한식",
+        "name": "참치김밥",
+        "price": 1000,
+        "image": "gimbap_tuna.PNG"
+    },
+    {
+        "category": "한식",
+        "name": "매운김밥",
+        "price": 800,
+        "image": "gimbap_hot.PNG"
+    },
+    {
+        "category": "한식",
+        "name": "라면",
+        "price": 300,
+        "image": "ramen.PNG"
+    },
+    {
+        "category": "한식",
+        "name": "치즈라면",
+        "price": 600,
+        "image": "ramen_cheese.PNG"
+    },
+    {
+        "category": "한식",
+        "name": "떡라면",
+        "price": 400,
+        "image": "ramen_ddeok.PNG"
+    },
+    {
+        "category": "양식",
+        "name": "치즈피자",
+        "price": 1200,
+        "image": "pizza_cheese.PNG"
+    },
+    {
+        "category": "양식",
+        "name": "불고기피자",
+        "price": 1500,
+        "image": "pizza_bulgogi.PNG"
+    },
+    {
+        "category": "양식",
+        "name": "콤비네이션피자",
+        "price": 1800,
+        "image": "pizza_combination.PNG"
+    },
+    {
+        "category": "양식",
+        "name": "페퍼로니피자",
+        "price": 1400,
+        "image": "pizza_pepperoni.PNG"
+    },
+    {
+        "category": "양식",
+        "name": "오일파스타",
+        "price": 1300,
+        "image": "pasta_oil.PNG"
+    },
+    {
+        "category": "양식",
+        "name": "토마토파스타",
+        "price": 1700,
+        "image": "pasta_tomato.PNG"
+    },
+    {
+        "category": "양식",
+        "name": "크림파스타",
+        "price": 1600,
+        "image": "pasta_cream.PNG"
+    },
+    {
+        "category": "중식",
+        "name": "짜장면",
+        "price": 2000,
+        "image": "jajang.PNG"
+    },
+    {
+        "category": "중식",
+        "name": "간짜장",
+        "price": 2300,
+        "image": "jajang_dry.PNG"
+    },
+    {
+        "category": "중식",
+        "name": "삼선짜장",
+        "price": 2500,
+        "image": "jajang_seafood.PNG"
+    },
+    {
+        "category": "중식",
+        "name": "쟁반짜장",
+        "price": 2400,
+        "image": "jajang_tray.PNG"
+    },
+    {
+        "category": "일식",
+        "name": "연어초밥",
+        "price": 3500,
+        "image": "sushi_salmon.PNG"
+    },
+    {
+        "category": "일식",
+        "name": "광어초밥",
+        "price": 3400,
+        "image": "sushi_white.PNG"
+    },
+    {
+        "category": "일식",
+        "name": "계란초밥",
+        "price": 3000,
+        "image": "sushi_egg.PNG"
+    },
+    {
+        "category": "일식",
+        "name": "참치초밥",
+        "price": 3900,
+        "image": "sushi_tuna.PNG"
+    },
+    {
+        "category": "일식",
+        "name": "가리비초밥",
+        "price": 3200,
+        "image": "sushi_seafood.PNG"
+    }
+ 
+
+]
