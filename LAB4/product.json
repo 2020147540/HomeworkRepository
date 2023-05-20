@@ -1,0 +1,142 @@
+[
+    {
+        "category": "한식",
+        "name": "김밥",
+        "price": 500,
+        "image": "http://kobongmin.com/renewal/resources/img/sub/menu/menu1_3on.jpg"
+    },
+    {
+        "category": "한식",
+        "name": "치즈김밥",
+        "price": 700,
+        "image": "http://kobongmin.com/renewal/resources/img/sub/menu/menu1_7on.jpg"
+    },
+    {
+        "category": "한식",
+        "name": "참치김밥",
+        "price": 1000,
+        "image": "http://kobongmin.com/renewal/resources/img/sub/menu/menu1_6on.jpg"
+    },
+    {
+        "category": "한식",
+        "name": "매운김밥",
+        "price": 800,
+        "image": "http://kobongmin.com/renewal/resources/img/sub/menu/menu1_5on.jpg"
+    },
+    {
+        "category": "한식",
+        "name": "라면",
+        "price": 300,
+        "image": "https://health.chosun.com/site/data/img_dir/2022/09/23/2022092301908_0.jpg"
+    },
+    {
+        "category": "한식",
+        "name": "치즈라면",
+        "price": 600,
+        "image": "https://th.bing.com/th/id/OIP.OFS0bDZsG66fliDvZ0Zm3QHaEu?pid=ImgDet&rs=1"
+    },
+    {
+        "category": "한식",
+        "name": "떡라면",
+        "price": 400,
+        "image": "https://th.bing.com/th/id/OIP.NQ9CDa-LoOTTuhazKzJ0mAHaGZ?pid=ImgDet&rs=1"
+    },
+    {
+        "category": "양식",
+        "name": "치즈피자",
+        "price": 1200,
+        "image": "https://www.7thpizza.com/files/MENU/612F1546468F4431862AE4C0B42B2928-dea27c93055e876edf18889a0f8acc51.jpg"
+    },
+    {
+        "category": "양식",
+        "name": "불고기피자",
+        "price": 1500,
+        "image": "https://www.7thpizza.com/files/MENU/A94D7228BD0F44CBB59E726BD590EF98-2358cd944b4330cd7a9faac923ddeba8.jpg"
+    },
+    {
+        "category": "양식",
+        "name": "콤비네이션피자",
+        "price": 1800,
+        "image": "https://www.7thpizza.com/files/MENU/1A47EBC87395495EA70209126C56465F-fb92bfe44c5bd15204e6ec19712d60b6.jpg"
+    },
+    {
+        "category": "양식",
+        "name": "페퍼로니피자",
+        "price": 1400,
+        "image": "https://www.7thpizza.com/files/MENU/3238E8B3CEAF4EED9A801135E3B41120-4e985fae8b71d342bd4e26641442fc7e.jpg"
+    },
+    {
+        "category": "양식",
+        "name": "오일파스타",
+        "price": 1300,
+        "image": "https://cdn.011st.com/11dims/resize/900x900/quality/75/11src/cat/22/6/8/9/9/6/0/HoirC/216689960_1.jpg"
+    },
+    {
+        "category": "양식",
+        "name": "토마토파스타",
+        "price": 1700,
+        "image": "https://img-cf.kurly.com/shop/data/goodsview/20220406/gv20000299645_1.jpg"
+    },
+    {
+        "category": "양식",
+        "name": "크림파스타",
+        "price": 1600,
+        "image": "https://cdn.011st.com/11dims/resize/220/11src/product/5700640430/L300.jpg?309000000"
+    },
+    {
+        "category": "중식",
+        "name": "짜장면",
+        "price": 2000,
+        "image": "https://th.bing.com/th/id/OIP.eWiEW5-2-lE1O9AlMm0tGQHaFj?w=281&h=211&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "category": "중식",
+        "name": "간짜장",
+        "price": 2300,
+        "image": "https://th.bing.com/th/id/OIP.CAw2PP1YU5K2E72F4wHxNwHaFj?w=244&h=183&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "category": "중식",
+        "name": "삼선짜장",
+        "price": 2500,
+        "image": "https://th.bing.com/th/id/OIP.0RlKsXb1jkqGokqOswF2OwHaFB?w=257&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "category": "중식",
+        "name": "쟁반짜장",
+        "price": 2400,
+        "image": "https://th.bing.com/th/id/OIP.K69Nhp1KxysbVZvBRi7BQQHaE9?w=233&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "category": "일식",
+        "name": "연어초밥",
+        "price": 3500,
+        "image": "http://sushinokando.com/img/pc/sushi04-1.jpg"
+    },
+    {
+        "category": "일식",
+        "name": "광어초밥",
+        "price": 3400,
+        "image": "http://sushinokando.com/img/pc/sushi01.jpg"
+    },
+    {
+        "category": "일식",
+        "name": "계란초밥",
+        "price": 3000,
+        "image": "http://sushinokando.com/img/pc/sushi39.jpg"
+    },
+    {
+        "category": "일식",
+        "name": "참치초밥",
+        "price": 3900,
+        "image": "http://sushinokando.com/img/pc/sushi05.jpg"
+    },
+    {
+        "category": "일식",
+        "name": "가리비초밥",
+        "price": 3200,
+        "image": "http://sushinokando.com/img/pc/sushi26.jpg"
+    }
+ 
+
+]
